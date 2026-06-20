@@ -1,6 +1,8 @@
 # push_notifications
 
-A new Flutter project.
+Flutter project for Push Notifications.
+
+I assume that you have connected your Flutter app with Firebase project. If you didn't connected your app with Firebase then it won't work.
 
 ## Getting Started
 
